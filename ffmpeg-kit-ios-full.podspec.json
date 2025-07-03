@@ -13,7 +13,6 @@
   },
   "platforms": {
     "ios": "12.1",
-    "osx": "11.0"
   },
   "requires_arc": true,
   "libraries": [
