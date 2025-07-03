@@ -22,7 +22,7 @@
     "iconv"
   ],
   "source": {
-    "http": "https://github.com/ToThangGTVT/ffmpeg-kit/releases/download/v5.1/ffmpeg-kit-full-6.0-ios-xcframework.zip"
+    "http": "https://github.com/ToThangGTVT/ffmpeg-kit/releases/download/v5.1/ffmpeg-kit-full-5.1-ios-xcframework.zip"
   },
   "ios": {
     "frameworks": [
